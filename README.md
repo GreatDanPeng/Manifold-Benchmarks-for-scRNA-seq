@@ -1,7 +1,7 @@
 # NE-Spectrum-Reproduction
 UNC Biostats Undergraduate Summer Internships (BUSI) 2023
 
-#+begin_src
+、、、
 @article{boehm2022attraction,
   author  = {Jan Niklas Böhm and Philipp Berens and Dmitry Kobak},
   title   = {Attraction-Repulsion Spectrum in Neighbor Embeddings},
@@ -12,4 +12,4 @@ UNC Biostats Undergraduate Summer Internships (BUSI) 2023
   pages   = {1--32},
   url     = {http://jmlr.org/papers/v23/21-0055.html}
 }
-#+end_src
+、、、
