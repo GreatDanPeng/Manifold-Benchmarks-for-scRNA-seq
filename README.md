@@ -1,4 +1,4 @@
-# Manifold-Benchmarks-for-scRNA-seq
+# Manifold Benchmarks for scRNA-seq
 UNC Biostats Undergraduate Summer Internships (BUSI) 2023
 
 <img width="1866" alt="poster" src="https://github.com/user-attachments/assets/314c25cb-f642-4c8e-be29-504b9da86dcf" />
